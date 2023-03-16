@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Farhan
-####  I’m interested in Full Stack Development, Problem Solving and Machine learning
+
  I’m interested in Full Stack Development, Problem Solving and Machine learning
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible.
 
-Skills:  JS / HTML / CSS
+Skills:  JS / HTML / CSS / React / NodeJs / ExpressJs
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning JavaScript 
