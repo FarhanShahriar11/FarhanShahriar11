@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/HVvcpz3/mdmahfuzrp-11zon-3.jpg" alt="Md Mahfuz RP" />
+<img src="https://i.ibb.co/HVvcpz3/farhan-11zon-3.jpg" alt="farhan" />
 
 </h3>
 </p>
