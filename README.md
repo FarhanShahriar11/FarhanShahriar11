@@ -16,7 +16,7 @@ I'm a strong believer in crafting well-designed products that prioritize quality
 
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mdmahfuzrp&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=farhanp&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdmahfuzrp&theme=tokyonight&border_radius=6&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=350&hide_total_contributions=true)](https://git.io/streak-stats)
 
 ### 🔝 Current GitHub Activity Status
