@@ -1,4 +1,49 @@
 <img src="https://i.ibb.co/HVvcpz3/mdmahfuzrp-11zon-3.jpg" alt="Md Mahfuz RP" />
+<br>
+
+<!--
+<h1 align="center">
+  <a href="https://github.com/amirhamza24">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=60&color=016EEA&center=true&vCenter=true&width=900&height=70&lines=Hi%2C%F0%9F%91%8B+I'm+Amir+Hamza+%F0%9F%98%8A;I'm+a+Front-End+Developer+%F0%9F%92%BB;Feel+free+to+get+in+touch+%F0%9F%93%B1;Nice+to+meet+you+%F0%9F%A4%9D" alt="Typing SVG" />
+  </a>
+</h1>
+-->
+
+<br>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amirhamza24&" alt="amirhamza24" /></p>
+<br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirhamza24" alt="amirhamza24" /></a> </p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amirhamza24&show_icons=true&locale=en&layout=compact" alt="amirhamza24" /></p>
+
+<h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
+<p align="left"> <a href="https://twitter.com/amirhamza45" target="blank"><img src="https://img.shields.io/twitter/follow/amirhamza45?logo=twitter&style=for-the-badge" alt="amirhamza45" /></a> </p>
+
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 💬 Ask me about **MERN, Android**
+- 📫 How to reach me **ridoy.amirhamza@gmail.com**
+- ⚡ Fun fact **I am funny**
+
+  <br>
+
+<h2 align="left">Connect with me: 🌐</h2>  
+<p align="center">  </h3>
+<p align="center">
+<h3 align="center">
+  
+[![MAIL Badge](https://img.shields.io/badge/-ridoy.amirhamza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ridoy.amirhamza@gmail.com)](mailto:ridoy.amirhamza@gmail.com)
+
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/amirhamza147) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/amirhamza.ridoy4) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amir_hamza_ridoy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amir-hamza-447ba8278) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21230227) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AmirHamza45)
+
+
+</h3>
+</p>
+
+<br>
+
+<h2 align="left">Languages and Tools: 💻</h3>
+
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="29px"> It's Farhan,</h1>
 
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=A+Full+Stack+Developer+(MERN);Experienced+Frontend+Developer;Skilled+Backend+Developer;Passionate+React.JS+Developer" alt="Typing SVG" /></h2>
