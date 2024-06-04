@@ -15,10 +15,18 @@ Software Engineer with 3+ years of industry experience and 5+ years of technical
 I'm a strong believer in crafting well-designed products that prioritize quality over quantity. Eager to collaborate on groundbreaking projects and contribute to a team's success.
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="29px"> It's Mahfuz,</h1>
 
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=A+Full+Stack+Developer+(MERN);Experienced+Frontend+Developer;Skilled+Backend+Developer;Passionate+React.JS+Developer" alt="Typing SVG" /></h2>
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mdmahfuzrp&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdmahfuzrp&theme=tokyonight&border_radius=6&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=350&hide_total_contributions=true)](https://git.io/streak-stats)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmahfuzrp&label=Profile%20views&color=0e75b6&style=flat" alt="mdmahfuzrp" /> </p>
+### 🔝 Current GitHub Activity Status
+<div align="left">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=mdmahfuzrp&theme=tokyonight&hide_border=true&border_radius=5" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdmahfuzrp&locale=en&hide_title=false&layout=compact&card_width=230&langs_count=6&theme=tokyonight&hide_border=true" alt="languages graph"  />
+</div>
 
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mdmahfuzrp&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 <h2 align="left">Connect with me: 🌐</h2>  
 <p align="center">  </h3>
 <p align="center">
