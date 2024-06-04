@@ -13,7 +13,11 @@
 Software Engineer with 3+ years of industry experience and 5+ years of technical expertise. Proven ability to design and develop high-performing, user-centric websites. Passionate about problem-solving and continuous improvement, honed through competitive programming.
 
 I'm a strong believer in crafting well-designed products that prioritize quality over quantity. Eager to collaborate on groundbreaking projects and contribute to a team's success.
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="29px"> It's Mahfuz,</h1>
 
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=A+Full+Stack+Developer+(MERN);Experienced+Frontend+Developer;Skilled+Backend+Developer;Passionate+React.JS+Developer" alt="Typing SVG" /></h2>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmahfuzrp&label=Profile%20views&color=0e75b6&style=flat" alt="mdmahfuzrp" /> </p>
 
 <h2 align="left">Connect with me: 🌐</h2>  
 <p align="center">  </h3>
