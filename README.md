@@ -1,14 +1,7 @@
 <img src="https://i.ibb.co/HVvcpz3/mdmahfuzrp-11zon-3.jpg" alt="Md Mahfuz RP" />
 
 
-<h2 align="left">Connect with me: 🌐</h2>  
-<p align="center">  </h3>
-<p align="center">
-<h3 align="center">
-  
-[![MAIL Badge](https://img.shields.io/badge/-ridoy.amirhamza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ridoy.amirhamza@gmail.com)](mailto:ridoy.amirhamza@gmail.com)
 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/amirhamza147) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/amirhamza.ridoy4) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amir_hamza_ridoy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amir-hamza-447ba8278) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21230227) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AmirHamza45)
 
 
 </h3>
