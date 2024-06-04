@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💬 Ask me about **MERN, Android**
-- 📫 How to reach me **ridoy.amirhamza@gmail.com**
+- 📫 How to reach me **farhanmahmud552@gmail.com**
 - ⚡ Fun fact **I am funny**
 
   <br>
