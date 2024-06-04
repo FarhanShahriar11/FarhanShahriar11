@@ -13,7 +13,7 @@
 Software Engineer with 3+ years of industry experience and 5+ years of technical expertise. Proven ability to design and develop high-performing, user-centric websites. Passionate about problem-solving and continuous improvement, honed through competitive programming.
 
 I'm a strong believer in crafting well-designed products that prioritize quality over quantity. Eager to collaborate on groundbreaking projects and contribute to a team's success.
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="29px"> It's Mahfuz,</h1>
+
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mdmahfuzrp&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)
