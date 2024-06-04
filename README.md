@@ -1,15 +1,7 @@
 <img src="https://i.ibb.co/HVvcpz3/mdmahfuzrp-11zon-3.jpg" alt="Md Mahfuz RP" />
 
-
-
-
-
 </h3>
 </p>
-
-<br>
-
-<h2 align="left">Languages and Tools: 💻</h3>
 
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="29px"> It's Farhan,</h1>
 
